@@ -1,0 +1,2 @@
+# Aruino_Leonardo_mit_DS3231_und_KeypadShield__Zeit_gross_klein
+ mit stellfunktion
